@@ -1,0 +1,22 @@
+city:邯郸
+
+date:11-05		day:大雨(16°C )		night:小雨( 2°C)
+
+date:11-06		day:小雨(5°C )		night:中雨( 2°C)
+
+date:11-07		day:小雨(7°C )		night:小雨( 3°C)
+
+date:11-08		day:晴(12°C )		night:多云( 5°C)
+
+date:11-09		day:多云(16°C )		night:晴( 6°C)
+
+date:11-10		day:阴(15°C )		night:多云( 5°C)
+
+date:11-11		day:阴天(13°C )		night:局部多云( 6°C)
+
+date:11-12		day:局部多云(13°C )		night:阴天( 5°C)
+
+date:11-13		day:局部多云(13°C )		night:局部多云( 4°C)
+
+date:11-14		day:局部多云(13°C )		night:局部多云( 4°C)
+
